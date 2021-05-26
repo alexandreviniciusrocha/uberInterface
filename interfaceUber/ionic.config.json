@@ -1,0 +1,7 @@
+{
+  "name": "interfaceUber",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
